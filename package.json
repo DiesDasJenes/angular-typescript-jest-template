@@ -4,8 +4,6 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "express-backend": "node local/server.js",
-    "serve:express-backend": "concurrently \"npm run express-backend\" \"npm run start\"",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "jest",

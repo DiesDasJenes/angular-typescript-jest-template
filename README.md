@@ -1,6 +1,8 @@
-# Todo-App
+# Template-App
 
-Small Todo App in angular. 
+Small template in angular for typescript that uses the testing library for component testing. 
+
+You can create a express mock server to stub a potential backend.
 
 ## Development server
 
